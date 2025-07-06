@@ -1,27 +1,15 @@
-# 🔐 Selenium Login Automation (HerokuApp)
+# SeleniumPractice 🧪
 
-This project demonstrates a basic login and logout test automation using **Selenium WebDriver**, **TestNG**, and **Page Object Model (POM)** structure in Java.
+This project demonstrates a structured Selenium automation testing framework using **Java**, **TestNG**, **Maven**, and **Allure Reports**.
 
----
+## ✅ Features
 
-## 📌 Features
-
-- Automates login and logout on [the-internet.herokuapp.com](https://the-internet.herokuapp.com/login)
-- Uses TestNG annotations for setup and execution
-- Assertions for verifying login success and logout
-- Clean POM-based structure
-+ - GitHub Actions CI integration for test automation ✅
-
----
-
-## 🛠️ Technologies Used
-
-- Java 21
-- Selenium 4.20.0
-- TestNG
-- Maven
-- IntelliJ IDEA
-
----
+- Java-based Selenium automation
+- TestNG framework integration
+- Page Object Model (POM) structure
+- Maven for build lifecycle and dependency management
+- Automatically managed browser drivers via WebDriverManager
+- Allure report generation for enhanced test reporting
 
 ## 📁 Project Structure
+
