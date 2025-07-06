@@ -10,6 +10,7 @@ This project demonstrates a basic login and logout test automation using **Selen
 - Uses TestNG annotations for setup and execution
 - Assertions for verifying login success and logout
 - Clean POM-based structure
++ - GitHub Actions CI integration for test automation ✅
 
 ---
 
@@ -24,4 +25,3 @@ This project demonstrates a basic login and logout test automation using **Selen
 ---
 
 ## 📁 Project Structure
-
